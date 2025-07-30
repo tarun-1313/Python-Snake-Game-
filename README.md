@@ -14,6 +14,8 @@ A classic Snake Game implemented in Python with a Tkinter GUI, score & high‑sc
 - Walls appear automatically at higher scores to increase difficulty
 - Motivational messages that rotate every few seconds
 
+<img width="1064" height="979" alt="Screenshot 2025-07-30 141449" src="https://github.com/user-attachments/assets/36b87541-22ff-44c0-abf7-8f06c5914268" />
+
 ## Requirements
 - Python 3.8+ (works on Windows/macOS/Linux)
 - Standard library only (`tkinter`, `json`, `random`, `os`)
